@@ -6,6 +6,7 @@ I'm a student majoring Industrial Engineering at <a href="https://www.kaist.ac.k
 
 - Solving Real-World Problems with Data Science
 - StartUp by using Data Science Techniques
+- Reinforcement Learning/Bayesian Statistics
 
 ## 🌱 I’m currently learning ...
 - Probability Theory & Inferential Statistics
