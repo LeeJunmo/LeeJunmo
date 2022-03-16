@@ -11,10 +11,9 @@ I'm a student majoring Industrial Engineering at <a href="https://www.kaist.ac.k
 
 ## 🌱 I’m currently learning ...
 - Probability Theory & Inferential Statistics
-- Experimental Design
-- Machine Learning / Deep Learning
-- Convex Optimization
-- Computer Science : Data Structure / Algorithms
+- Human-Computer Interaction
+- Data-Driven Decision Making and Control
+- XAI / Recommendation System
 
 ## 📫 How to reach me ...
 <a href="mailto:bubblego5678@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
