@@ -5,9 +5,10 @@ I'm a student majoring Industrial Engineering at <a href="https://www.kaist.ac.k
 ## 👀 I’m interested in ...
 
 - Solving Real-World Problems with Data Science
-- StartUp by using Data Science Techniques
-- Reinforcement Learning/Bayesian Statistics
 - Graph Neural Network/Recommendation System
+- Reinforcement Learning/Bayesian Statistics
+- StartUp by using Data Science Techniques
+
 
 ## 🌱 I’m currently learning ...
 - Probability Theory & Inferential Statistics
