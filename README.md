@@ -6,15 +6,14 @@ I'm a student majoring Industrial Engineering at <a href="https://www.kaist.ac.k
 
 - Solving Real-World Problems with Data Science
 - Graph Neural Network/Recommendation System
-- Reinforcement Learning/Bayesian Statistics
+- Natural Language Processing/Reinforcement Learning
 - StartUp by using Data Science Techniques
 
 
 ## 🌱 I’m currently learning ...
 - Probability Theory & Inferential Statistics
-- Human-Computer Interaction
 - Data-Driven Decision Making and Control
-- XAI / Recommendation System
+- Recommendation System via Knowledge Graph and NLP
 
 ## 📫 How to reach me ...
 <a href="mailto:bubblego5678@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
