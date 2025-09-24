@@ -5,11 +5,12 @@ I'm a student majoring Industrial Engineering at <a href="https://www.kaist.ac.k
 ## 👀 I’m interested in ...
 
 - Solving Real-World Problems with Data Science
-- Anomaly Detection
-- Multi-modal Machine Learning
+- Transfer Learning
+- Machine Learning for Healthcare
 
 ## 🌱 I’m currently learning ...
 - Statistics
+- Statistical Learning Theory
 
 ## 📫 How to reach me ...
 <a href="mailto:bubblego5678@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -36,10 +37,3 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-
-## IDE
-
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJunmo&show_icons=true)
